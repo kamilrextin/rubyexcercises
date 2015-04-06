@@ -1,0 +1,3 @@
+This is some random junk in a text file
+I am going to read and print it with a ruby script
+This is bloody cool.
